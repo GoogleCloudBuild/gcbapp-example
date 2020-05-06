@@ -14,3 +14,4 @@
 # limitations under the License.
 
 echo "Hello, world! The time is $(date)."
+echo "The time is $(date)."
